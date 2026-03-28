@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Software Engineering Student at KFUPM. This semester, I am currently learning about Software Requirements Engineering, Software Design and Construction, Information Security, and Web Development.
+I am a Junior Software Engineering Student at KFUPM. This semester, I am currently learning about Software Testing, Design and Analysis of Algorithms, and Software Project Management.
 
 My Portfolio: https://lenaashqar.vercel.app/
 
