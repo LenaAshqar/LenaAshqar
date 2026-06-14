@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Software Engineering Student at KFUPM. This semester, I am currently learning about Software Testing, Design and Analysis of Algorithms, and Software Project Management.
+I am a Senior Software Engineering Student at KFUPM. This year I am excited to start my concentration in Cloud Computing!
 
 My Portfolio: https://lenaashqar.vercel.app/
 
